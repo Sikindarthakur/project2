@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Author: sikindar thakur
+Author: sikindar thakur.
